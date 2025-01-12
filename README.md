@@ -7,6 +7,3 @@ Born march 3rd, 2006. Pixel artist, Level designer, and amatur artist & programm
 
 Contributed/Contributing to various games including [Supertux](https://github.com/SuperTux/supertux), [Supertux advance](https://github.com/KelvinShadewing/supertux-advance), [A duck's wandering](https://github.com/A-Ducks-Wanderings/a-ducks-wanderings), [TuxTale](https://github.com/UbuntuJackson/Tuxtale), and probably more in the future. 
 
-Currently working on my own game, Flame's land re-ignited. The game can be found [Here](https://github.com/Frostwithasideofsalt/Reignited)
-
-#
